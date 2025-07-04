@@ -21,35 +21,35 @@
       <div class="items-center justify-between hidden w-full md:flex md:w-auto md:order-1" id="navbar-cta">
         <ul class="flex flex-col font-medium p-4 md:p-0 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
           <li>
-            <router-link to="/" 
+            <router-link to="bazar/" 
                         class="block py-2 px-3 md:p-0 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
                         :class="{ 'text-blue-700 bg-blue-100 md:bg-transparent md:text-blue-700': $route.name === 'Home' }">
               Início
             </router-link>
           </li>
           <li>
-            <router-link to="/produtos" 
+            <router-link to="bazar/produtos" 
                         class="block py-2 px-3 md:p-0 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
                         :class="{ 'text-blue-700 bg-blue-100 md:bg-transparent md:text-blue-700': $route.name === 'Products' }">
               Produtos
             </router-link>
           </li>
           <li>
-            <router-link to="/sobre" 
+            <router-link to="bazar/sobre" 
                         class="block py-2 px-3 md:p-0 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
                         :class="{ 'text-blue-700 bg-blue-100 md:bg-transparent md:text-blue-700': $route.name === 'About' }">
               Sobre
             </router-link>
           </li>
           <li>
-            <router-link to="/contato" 
+            <router-link to="bazar/contato" 
                         class="block py-2 px-3 md:p-0 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
                         :class="{ 'text-blue-700 bg-blue-100 md:bg-transparent md:text-blue-700': $route.name === 'Contact' }">
               Contato
             </router-link>
           </li>
           <li>
-            <router-link to="/admin" 
+            <router-link to="bazar/admin" 
                         class="block py-2 px-3 md:p-0 text-orange-600 rounded hover:bg-orange-100 md:hover:bg-transparent md:hover:text-orange-700 md:dark:hover:text-orange-500 dark:text-orange-400 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700 font-medium"
                         :class="{ 'text-orange-700 bg-orange-100 md:bg-transparent md:text-orange-700': $route.name === 'Admin' || $route.name === 'AdminProducts' || $route.name === 'AdminCategories' }">
               🔧 Admin
