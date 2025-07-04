@@ -1,9 +1,9 @@
 import axios from 'axios'
 
 // local API base URL
-// const API_BASE_URL = 'http://localhost:3001'
+const API_BASE_URL = 'http://localhost:3001'
 
-const API_BASE_URL = 'https://my-json-server.typicode.com/fvandrad/bazar'
+//const API_BASE_URL = 'https://my-json-server.typicode.com/fvandrad/bazar'
 
 const api = axios.create({
   baseURL: API_BASE_URL,
