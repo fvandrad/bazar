@@ -8,7 +8,7 @@
       "gender": "masculino",
       "age_group": "adulto",
       "price": 25.99,
-      "image": " ",
+      "image": "data:image/webp;base64,UklGRhIAAABXRUJQVlA4TAYAAAAvAAAAEAcQERGIiP4HAA==",
       "description": "Camiseta básica 100% algodão",
       "sizes": [
         "P",
@@ -31,7 +31,7 @@
       "gender": "feminino",
       "age_group": "adulto",
       "price": 89.99,
-      "image": " ",
+      "image": "data:image/webp;base64,UklGRhIAAABXRUJQVlA4TAYAAAAvAAAAEAcQERGIiP4HAA==",
       "description": "Vestido floral para ocasiões especiais",
       "sizes": [
         "P",
@@ -53,7 +53,7 @@
       "gender": "masculino",
       "age_group": "adulto",
       "price": 149.99,
-      "image": " ",
+      "image": "data:image/webp;base64,UklGRhIAAABXRUJQVlA4TAYAAAAvAAAAEAcQERGIiP4HAA==",
       "description": "Tênis esportivo para corrida e academia",
       "sizes": [
         "38",
@@ -78,7 +78,7 @@
       "gender": "feminino",
       "age_group": "infantil",
       "price": 39.99,
-      "image": " ",
+      "image": "data:image/webp;base64,UklGRhIAAABXRUJQVlA4TAYAAAAvAAAAEAcQERGIiP4HAA==",
       "description": "Sandália confortável para crianças",
       "sizes": [
         "24",
@@ -102,7 +102,7 @@
       "gender": "feminino",
       "age_group": "adulto",
       "price": 199.99,
-      "image": " ",
+      "image": "data:image/webp;base64,UklGRhIAAABXRUJQVlA4TAYAAAAvAAAAEAcQERGIiP4HAA==",
       "description": "Bolsa de couro sintético elegante",
       "sizes": [
         "Único"
@@ -122,7 +122,7 @@
       "gender": "masculino",
       "age_group": "adulto",
       "price": 79.99,
-      "image": " ",
+      "image": "data:image/webp;base64,UklGRhIAAABXRUJQVlA4TAYAAAAvAAAAEAcQERGIiP4HAA==",
       "description": "Relógio digital à prova d'água",
       "sizes": [
         "Único"
@@ -142,7 +142,7 @@
       "gender": "masculino",
       "age_group": "infantil",
       "price": 45.99,
-      "image": " ",
+      "image": "data:image/webp;base64,UklGRhIAAABXRUJQVlA4TAYAAAAvAAAAEAcQERGIiP4HAA==",
       "description": "Conjunto camiseta + bermuda",
       "sizes": [
         "2",
@@ -166,7 +166,7 @@
       "gender": "masculino",
       "age_group": "adulto",
       "price": 129.99,
-      "image": " ",
+      "image": "data:image/webp;base64,UklGRhIAAABXRUJQVlA4TAYAAAAvAAAAEAcQERGIiP4HAA==",
       "description": "Sapato social em couro",
       "sizes": [
         "38",
@@ -191,7 +191,7 @@
       "gender": "feminino",
       "age_group": "bebê",
       "price": 19.99,
-      "image": " ",
+      "image": "data:image/webp;base64,UklGRhIAAABXRUJQVlA4TAYAAAAvAAAAEAcQERGIiP4HAA==",
       "description": "Body em algodão para bebê",
       "sizes": [
         "RN",
@@ -214,7 +214,7 @@
       "gender": "masculino",
       "age_group": "bebê",
       "price": 29.99,
-      "image": " ",
+      "image": "data:image/webp;base64,UklGRhIAAABXRUJQVlA4TAYAAAAvAAAAEAcQERGIiP4HAA==",
       "description": "Macacão confortável para bebê",
       "sizes": [
         "RN",
@@ -237,7 +237,7 @@
       "gender": "feminino",
       "age_group": "jovem",
       "price": 119.99,
-      "image": " ",
+      "image": "data:image/webp;base64,UklGRhIAAABXRUJQVlA4TAYAAAAvAAAAEAcQERGIiP4HAA==",
       "description": "Jaqueta jeans estilo jovem",
       "sizes": [
         "PP",
@@ -260,7 +260,7 @@
       "gender": "masculino",
       "age_group": "jovem",
       "price": 179.99,
-      "image": " ",
+      "image": "data:image/webp;base64,UklGRhIAAABXRUJQVlA4TAYAAAAvAAAAEAcQERGIiP4HAA==",
       "description": "Tênis para skatistas e jovens urbanos",
       "sizes": [
         "36",
@@ -286,7 +286,7 @@
       "gender": "feminino",
       "age_group": "idoso",
       "price": 139.99,
-      "image": " ",
+      "image": "data:image/webp;base64,UklGRhIAAABXRUJQVlA4TAYAAAAvAAAAEAcQERGIiP4HAA==",
       "description": "Sapato ortopédico com palmilha confortável",
       "sizes": [
         "34",
@@ -312,7 +312,7 @@
       "gender": "masculino",
       "age_group": "idoso",
       "price": 49.99,
-      "image": " ",
+      "image": "data:image/webp;base64,UklGRhIAAABXRUJQVlA4TAYAAAAvAAAAEAcQERGIiP4HAA==",
       "description": "Camisa polo com tecido respirável",
       "sizes": [
         "M",
@@ -335,7 +335,7 @@
       "gender": "feminino",
       "age_group": "bebê",
       "price": 34.99,
-      "image": " ",
+      "image": "data:image/webp;base64,UklGRhIAAABXRUJQVlA4TAYAAAAvAAAAEAcQERGIiP4HAA==",
       "description": "Sapatinho macio para primeiros passos",
       "sizes": [
         "13",
