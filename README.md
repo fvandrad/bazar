@@ -1,6 +1,6 @@
-# Bazar   - E-commerce Vue.js
+# Bazar - Projeto em Vue.js
 
-Um e-commerce completo desenvolvido em Vue.js com Tailwind CSS e Flowbite Vue para um bazar de roupas, calçados e acessórios.
+Um projeto completo desenvolvido em Vue.js com Tailwind CSS e Flowbite Vue para um bazar de roupas, calçados e acessórios.
 
 ## Características 🛍️
 
@@ -105,13 +105,7 @@ bazar/
 
 ## Dados de Exemplo 🛒
 
-O projeto inclui dados de exemplo no arquivo `db.json` com:
-
-- 8 produtos de diferentes categorias
-- Roupas (masculino/feminino, adulto/infantil)
-- Calçados (tênis, sandálias, sapatos)
-- Acessórios (bolsas, relógios)
-- Informações completas (preço, estoque, tamanhos, cores)
+O projeto inclui dados de exemplo no arquivo `db.json` 
 
 ## Tecnologias Utilizadas 🔧
 
